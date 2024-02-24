@@ -2,9 +2,11 @@
 - 👀 I’m interested in reporting bugs.
 - 🌱 I’m currently learning to be a Linux user.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @wolfmunroe@dice.camp
+- 📫 How to reach me ... on Mastodon: @munroe@dice.camp
+<! ---
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--->
 
 <!---
 WolfMunroe/WolfMunroe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
